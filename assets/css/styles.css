@@ -1,0 +1,38 @@
+body {
+  margin: 0px;
+  font-family: "Roboto", sans-serif;
+  background: #f3f3f3;
+}
+table tr td {
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  padding: 5px;
+}
+.tableBox {
+  background-color: #fff;
+}
+.textBox {
+  font-size: 12px;
+  padding: 3px;
+}
+.textBoxErr {
+  font-size: 12px;
+  padding: 3px;
+  border: 1px solid darkred;
+  background: wheat;
+}
+.button {
+  font-size: 14px;
+}
+.errorMsg {
+  color: darkred;
+  padding: 2px;
+  border: 1px solid darkred;
+  background-color: aliceblue;
+}
+.successMsg {
+  color: darkgreen;
+  padding: 2px;
+  border: 1px solid darkgreen;
+  background-color: aliceblue;
+}
